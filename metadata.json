@@ -1,0 +1,6 @@
+{
+  "name": "Los Calditos - Restaurante Campechano",
+  "description": "Menú tradicional de caldos típicos, mariscos y especialidades caseras en San Francisco de Campeche. Pedidos en línea para entrega a domicilio y para llevar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
